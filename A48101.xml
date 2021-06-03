@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter from the west to a member of the meeting of Estates of Scotland</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48101</idno><idno type="EEBO-CITATION">9542782</idno>
+  <idno type="VID">43561</idno>
+  <idno type="EEBO-PROQUEST">2264196955</idno>
+  
+            <idno type="STC">Wing L1546</idno>
+            <idno type="STC">ESTC R26781</idno>
+            <idno type="OCLC">09542782</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48101)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43561)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1335:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter from the west to a member of the meeting of Estates of Scotland</title>
+               </titleStmt>
+               <extent>[5] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edingburgh? :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated on p. [5]: March 9, 1689.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of Scotland --  History.</term>
+               <term type="corporate_name">Scotland. --  Parliament.</term>
+               <term type="topical_term">Presbyterianism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:43561:1"/>
+            <pb facs="tcp:43561:1"/>
+            <p>A LETTER FROM THE WEST To a MEMBER of the Meeting of ESTATES of SCOTLAND.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:43561:2"/>
+            <pb facs="tcp:43561:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce I cannot be so soon at the Convention, to talk with you, therefore I have sent you my Thoughts, in this line, as to what Regards the <hi>Government</hi> of the <hi>Church,</hi> which may be there, or thereafter handled.</p>
+            <p>The <hi>Convention</hi> no doubt has great business before them, but that which in all probability will make no small buzle, is the <hi>Affair of Religion;</hi> It were certainly a thing very much to be wish<g ref="char:EOLhyphen"/>ed, if that Meeting could fall upon such Methods, as might ad<g ref="char:EOLhyphen"/>just <hi>Presbytry</hi> and <hi>Episcopacy,</hi> who these <hi>bundred years</hi> bygone, have been justling each Other by Turns.</p>
+            <p>You will doubtless accord with me, that it had been happy for this Kingdom, if the <hi>Reformation</hi> here had not been big at one and the same time with these Twains, the strife of whose <hi>primo<g ref="char:EOLhyphen"/>geniture</hi> has cost us so dear; Whence, I pray, all <hi>our intestine wars, Jars Domestick,</hi> Do not they all flow from thence? And who shall free us of the like <hi>Animosities</hi> in time coming? If former <hi>E<g ref="char:EOLhyphen"/>piscopacy</hi> get footing, shall we not see the great inconveniencies of <hi>conge d'elires,</hi> and the loosness of the <hi>Clergy</hi> arising from thence? And shall we not be again straitned by these Oaths, which were purposely set on foot to propogat that interest?</p>
+            <p>And if <hi>presbytry</hi> in its old Extent rule the Rost, shall We not be Disciplined even to cruelty, and whipt with <hi>scorpions?</hi> And then must we not renew the <hi>Covenant,</hi> and vomit up all Oaths contrare thereunto? Tho I believe, that both <hi>Covenant</hi> and <hi>Test</hi> were for<g ref="char:EOLhyphen"/>med
+<pb facs="tcp:43561:3"/>by <hi>Church Men,</hi> to Ruine each other by Turns, and were Tricks of <hi>Kirk</hi> and <hi>Church?</hi> Yet many of both perswasions have taken them honestly, and their Consciences would fly in their Faces if they should unsay them. Who shall then secure us, I say, if <hi>presbytry</hi> get up, but We must foreswear the <hi>Test,</hi> which tho we took with some scruple, as We ought to do all such Oaths, yet, <hi>quia jura<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>est,</hi> and that we were called thereto by our Em<g ref="char:EOLhyphen"/>ployments, we cannot do it without great Reluctancy, I shall not word it otherwi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e.</p>
+            <p>I say yet farther, if <hi>presbytrie</hi> be planted, we cannot be allowed to joyn with that <hi>society,</hi> except we come up their length, and <hi>perfection</hi> our selves up to the <hi>Geneva</hi> form; And tho they may now pretend Moderation, that they may get their <hi>finger in the p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e;</hi> Yet we are not ignorant of their known <hi>maxime, <hi>Not a Hoof;</hi>
+               </hi> For by the Nature of that Government, ye <hi>must take All, or None.</hi> For <hi>presbytry</hi> (as they say) being <hi>Jure Divino,</hi> it is so in its all and every part, for he is blind that ever saw much of their <hi>Brotherly condescention to serupulous consciences:</hi> And how can it be otherwise, since it is avouched by most of them as a principle, <hi>That there ought to be no Liberty of Conscience to Dissenters;</hi> Viz. when themselves are upmost.</p>
+            <p>We can no where understand the Spirit of Our <hi>Scots presbytry,</hi> so well as in these printed Acts of their <hi>General Assembly,</hi> and if you will be pleased to turn them over, you will find that by <hi>Act Gen: Assemb: Anno</hi> 1643: <hi>page</hi> 5: <q>
+                  <hi>It is Ordained, That all Ministers thereafter proceed with the Censures of the Kirk against such as shall re<g ref="char:EOLhyphen"/>fuse to subscribe the Covenant.</hi>
+               </q> And we are not to learn what they mean by these Censures, nothing less than the <hi>Dreadful sen<g ref="char:EOLhyphen"/>tence of Ercommunication,</hi> The <hi>delivering of Men over to the Meikle Devil.</hi> And Metamorphosing them <hi>in Loups Earrous and Shelly Coats.</hi> And they must be rendered poor Devils to the boot; For its resolved <hi>Act Gen. Assembly, Anno</hi> 1643. <hi>page</hi> 30. <q>
+                  <hi>That the Executions of the sentence of Excommunica<g ref="char:EOLhyphen"/>tion against persons Excommunicate after the space of</hi> 40 <hi>dayes past, shall be presented to the Lord Theasurer, or his Clerk, who shall there<g ref="char:EOLhyphen"/>upon raise Letters by Deliverance of the Lords of Session, to charge the
+<pb facs="tcp:43561:3"/>persons excommunicate to satisfie the Kirk, and to obtain themselves ab<g ref="char:EOLhyphen"/>solved, under the pain of Rebellion, and in case they pass to the Horn, to cause their Escheats to be taken up, and also to raise and cause Ex<g ref="char:EOLhyphen"/>ecute Letters of Caption against them, and these to be done at the</hi> Kings Majesties Charge. Item, Act Gen: Assemb: Anno 1648: page 44. <hi>It is Ordained, That all Young Students take the</hi> Covenant <hi>at their first entrie to</hi> Colledges, <hi>And that hereafter, all persons whatso<g ref="char:EOLhyphen"/>ever take the</hi> Covenant <hi>at their first receiving of the</hi> Sacrament of the LORD, Supper.</q>
+            </p>
+            <p>I am not to Enquire into the Dukes Engagement (which by the Undertakers then, was thought both Noble and necessar) But I am to tell you, the Assemblies se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se of it, for they say, <hi>Act Gen. Assemb: Anno</hi> 1648: <hi>page</hi> 16: <q>
+                  <hi>Suppose</hi> (say they) <hi>the ends of this Engagement to be good (which they are not) yet the means and wayes of prosecution are unlawful, because there is not an equal av<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>id<g ref="char:EOLhyphen"/>ing of Rocks on both hands, but a joyning of</hi> Malignants <hi>to suppress Sectaries, a joyning hands with a <hi>Black Devil,</hi> to beat a</hi> Whyte Devil</q>; so far the Canon. It was questioned (and perhaps not impertinently) by the Committe of Estates at that time: If the <hi>presbyterians</hi> could Demonstrate from the Word of GOD, That the Kirk has interest in the Undertakings and Engage<g ref="char:EOLhyphen"/>ments of War? It was answered, By a <hi>Distinguò,</hi> as you will find <hi>Act Gen. Assemb: Anno</hi> 1684: <hi>page</hi> 28: But I appeal to any indifferent Man who shall consider the place, if there be not a door opened (allowing the practise to be lawful) notwithstan<g ref="char:EOLhyphen"/>ding of the Distinction to the Successors of that Kirk, to inter<g ref="char:EOLhyphen"/>meddle with the Affairs of Princes, in what concerns Peace and War.</p>
+            <p>Perhaps it has not been amiss, that these parcels of the Acts of their <hi>General Assembly</hi> have been drawn forth, for it is from that Fountain, we may best understand the Spirit of our Presbyterie. And since these <hi>Presbyterian Divines</hi> who composed these Acts, did endeavour to follow at as great nearness as they could, the Foots<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eeps of their Predecessors, as you will find, by the pains they take in the beginning of their Acts, to prove that the writ<g ref="char:EOLhyphen"/>ten Registers that they had fallen upon were Authentick. It's not likely that the <hi>Presbyters</hi> of our time, if such shall get foot<g ref="char:EOLhyphen"/>ing,
+<pb facs="tcp:43561:4"/>will chalk out new wayes to themselves, there being but few <hi>Hendersons, Gillespies, Rutherfoords</hi> among us God forbid that I should not otherways have great Charity for the Men, and likewayes Respect for that Government as practised in other places, but there is this <hi>Malbeur</hi> that follows that Government with us, that the managers thereof drive too hard, and think they cannot build aright, except they build upon the Ruines of all those that shall but in the least differ from them.</p>
+            <p>Yet let us suppose, we shall not in thir wiser times, run the resque of <hi>Excommunication</hi> for not coming up their length, yet except we be purged from all Oaths contrair to the <hi>Covenant,</hi> we cannot be allowed to be Members of their Society, and where then shall we have the benefit of <hi>Communion, Baptism, Marriage?</hi> &amp;c. there being we suppose no other then the <hi>Presbyterian Kirk</hi> in beeing in <hi>Scotland.</hi>
+            </p>
+            <p>To shun then these Precipies, were it not more proper for us to examine, whether or not the Plea for <hi>Presbyterian Government</hi> as we practise it, be all of an Absolute necessity, so that we can<g ref="char:EOLhyphen"/>not win over it? or whether or not, there may be as much said for moderat <hi>Episcopacie?</hi> call it (if you please) <hi>Superintendencie</hi> or <hi>Presidency;</hi> I am very unfit to dip in that long debate, there is so much said for both sides in King <hi>Charles</hi> the <hi>I.</hi> His conferrence with the Ministers at <hi>Newport;</hi> and with that exactness. that hard<g ref="char:EOLhyphen"/>ly can any thing be added thereto, and it will appear thereby to any Indifferent man, that there is as much said there (at the least) for <hi>Episcopacy</hi> as <hi>Presbyterie,</hi> and <hi>Episcopacy</hi> has clearly the Church History upon its side; and as to the Authorities adduced from Scripture in favours of <hi>Presbytery,</hi> I appeal to any dissinte<g ref="char:EOLhyphen"/>ressed Man, if they will all of them amount to prove a possitive establishment of <hi>Presbytery?</hi> But only that there were several Acts which had reference to the Church, wherein the <hi>Presbytery</hi> and people Respective had a hand, but it must still be remem<g ref="char:EOLhyphen"/>bred that the Apostles did at the same time Superintend. And since now we cannot have Apostles, it were much to be wish'd, that we had Apostolick Men, Pious, Grave, and Learned Di<g ref="char:EOLhyphen"/>vines, gathered outof both Perswasions set over the rest, where<g ref="char:EOLhyphen"/>by
+<pb facs="tcp:43561:4"/>by <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ick Power</hi> which arises from the abuse of <hi>Episcopacy,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>fusion that arises from Parity, might be equally <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and that a Br<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>therly condescension, may be allowed to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ose that have not agreed, nor cannot agree with the rest <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll things, since we have but <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>Faith,</hi> one <hi>Baptism, &amp;c.</hi>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd that it shall be altogether put out of the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ower o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Church men</hi> to inferr Oaths new or ole, or to set the State <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>March</hi> 9. 1689.</date>
+               </dateline>
+               <signed>I am <hi>SIR, Your Humble Servant,</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
